@@ -1,7 +1,7 @@
 <h1>Hi, I’m Daniel Lehmann 👋</h1>
   <p>
-    <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=social" alt="Followers">
-    <img src="https://img.shields.io/github/stars/USERNAME?label=Stars&style=social" alt="Stars">
+    <img src="https://img.shields.io/github/followers/lehmand?label=Followers&style=social" alt="Followers">
+    <img src="https://img.shields.io/github/stars/lehmand?label=Stars&style=social" alt="Stars">
   </p>
   <hr>
 
