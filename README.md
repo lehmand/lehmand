@@ -6,7 +6,7 @@
   <hr>
 
   <h2>About Me</h2>
-  <p>Hello! I’m Daniel Lehmann, a 37-year-old software developer based in Mannheim, Germany. Building efficient and scalable web applications and I’m passionate about creating clean, maintainable code and delivering high-quality solutions.</p>
+  <p>Hello! I’m Daniel Lehmann, a 37-year-old software developer based in Mannheim, Germany. Building efficient and scalable web applications and passionate about creating clean, maintainable code and delivering high-quality solutions.</p>
   <ul>
     <li>🌱 I’m continuously learning new technologies and best practices.</li>
     <li>💼 I focus on full-stack development.</li>
